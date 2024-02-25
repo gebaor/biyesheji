@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/wode/wode",
+    "pages/dongmen/dongmen",
+    "pages/beimen/beimen",
+    "pages/nanmen/nanmen",
+    "pages/ximen/ximen"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "摊位易租",
+    "navigationBarBackgroundColor": "#fff",
+    "enablePullDownRefresh": true
+  },
+  "style":"v2",
+  "lazyCodeLoading": "requiredComponents",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "pages/icon/homepage.png",
+        "selectedIconPath": "pages/icon/homepage-1.png"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "pages/icon/wode.png",
+        "selectedIconPath": "pages/icon/wode-1.png"
+      }
+    ]
+  }
+}
