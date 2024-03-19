@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#E5DCD7",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
